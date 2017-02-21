@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cv demo face detect", "cv demo face detect\cv demo face detect.vcxproj", "{2EC5B1B4-33AF-477B-A75E-066CB4AAD792}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		OpenCV debug|Win32 = OpenCV debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EC5B1B4-33AF-477B-A75E-066CB4AAD792}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2EC5B1B4-33AF-477B-A75E-066CB4AAD792}.Debug|Win32.Build.0 = Debug|Win32
+		{2EC5B1B4-33AF-477B-A75E-066CB4AAD792}.OpenCV debug|Win32.ActiveCfg = OpenCV debug|Win32
+		{2EC5B1B4-33AF-477B-A75E-066CB4AAD792}.OpenCV debug|Win32.Build.0 = OpenCV debug|Win32
+		{2EC5B1B4-33AF-477B-A75E-066CB4AAD792}.Release|Win32.ActiveCfg = Release|Win32
+		{2EC5B1B4-33AF-477B-A75E-066CB4AAD792}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
